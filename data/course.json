@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "53f178db-6f89-9e69-767e-a0592b873501",
+  "instructors": {
+    "content": [
+      "197cc182-912a-fbc2-7a49-ea4069ca6267"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c4768f52-4c35-138e-3b5f-70eada96a3c1",
+    "website": "2-004-dynamics-and-control-ii-spring-2008"
+  },
+  "course_title": "Dynamics and Control II",
+  "course_description": "Upon successful completion of this course, students will be able to:\n\n*   Create lumped parameter models (expressed as ODEs) of simple dynamic systems in the electrical and mechanical energy domains\n*   Make quantitative estimates of model parameters from experimental measurements\n*   Obtain the time-domain response of linear systems to initial conditions and/or common forcing functions (specifically; impulse, step and ramp input) by both analytical and computational methods\n*   Obtain the frequency-domain response of linear systems to sinusoidal inputs\n*   Compensate the transient response of dynamic systems using feedback techniques\n*   Design, implement and test an active control system to achieve a desired performance measure\n\nMastery of these topics will be assessed via homework, quizzes/exams, and lab assignments.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.004",
+  "course_image_thumbnail": {
+    "content": "cf3301c6-bbc3-7c7a-6394-a6b560b3d91e",
+    "website": "2-004-dynamics-and-control-ii-spring-2008"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "394be093-c20d-4071-90cc-81338e3202f8",
+  "site_short_id": "2.004-spring-2008",
+  "site_url_path": "courses/2-004-dynamics-and-control-ii-spring-2008",
+  "title": "Course Metadata"
+}
